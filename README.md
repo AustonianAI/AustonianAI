@@ -60,7 +60,7 @@ Currently based in **Dallas, TX** 🌵 | Former digital nomad across Latin Ameri
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AustonianAI&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AustonianAI&theme=tokyonight&hide_border=true)
 
 </div>
 

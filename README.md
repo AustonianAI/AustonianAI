@@ -149,7 +149,7 @@ Fantasy football keeper analytics platform with sum-of-years' digits algorithm t
 
 <div align="center">
 
-### 🌐 [Visit My Portfolio](https://austinjohnson.tech)
+### 🌐 [Visit My Portfolio](https://austinjohnson.me)
 
 </div>
 

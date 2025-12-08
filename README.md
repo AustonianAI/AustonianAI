@@ -56,18 +56,6 @@ Currently based in **Dallas, TX** 🌵 | Former digital nomad across Latin Ameri
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Austin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AustonianAI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AustonianAI&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 💡 Featured Projects
 
 ### 🐣 [HatcheryBrain](https://apiv2.hatcherybrain.com/documentation)

@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Austin Johnson
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Software+Engineer;IRS+Licensed+Enrolled+Agent;Building+at+the+intersection+of+code+and+commerce" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Software+Engineer;IRS+Licensed+Enrolled+Agent" alt="Typing SVG" />
 
 </div>
 
